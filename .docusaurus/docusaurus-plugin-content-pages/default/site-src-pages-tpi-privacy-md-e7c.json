@@ -1,0 +1,11 @@
+{
+  "type": "mdx",
+  "permalink": "/tpi/privacy",
+  "source": "@site/src/pages/tpi/privacy.md",
+  "title": "Privacy Policy: The Pathway Initiative",
+  "description": "The Pathway Initiative customer privacy notice",
+  "frontMatter": {
+    "title": "Privacy Policy: The Pathway Initiative"
+  },
+  "unlisted": false
+}

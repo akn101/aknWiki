@@ -1,0 +1,11 @@
+{
+  "type": "mdx",
+  "permalink": "/tpi/privacy%20copy",
+  "source": "@site/src/pages/tpi/privacy copy.md",
+  "title": "Markdown page example",
+  "description": "You don't need React to write simple standalone pages.",
+  "frontMatter": {
+    "title": "Markdown page example"
+  },
+  "unlisted": false
+}
