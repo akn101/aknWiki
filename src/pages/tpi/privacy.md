@@ -15,7 +15,7 @@ We also have a joint controller relationship with Formspree for the purpose of s
 
 ### Email
 
-<pathway.project@akn.org.uk>
+[pathway.project@akn.org.uk](mailto://pathway.project/@akn.org.uk)
 
 ## What information we collect, use, and why
 
