@@ -1,0 +1,5 @@
+{
+  "label": "aknID",
+  "position": 2,
+  "link": { "type": "generated-index", "description": "Single sign-in for the akn sites, with per-site access granted by scope." }
+}

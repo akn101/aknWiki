@@ -1,0 +1,46 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Core Services": {
+    "message": "Core Services",
+    "description": "The label for category Core Services in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.aknThoughts": {
+    "message": "aknThoughts",
+    "description": "The label for category aknThoughts in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.aknThoughts.link.generated-index.description": {
+    "message": "Public bulletin board for short notes, with moderated publishing.",
+    "description": "The generated-index page description for category aknThoughts in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.akn.org.uk": {
+    "message": "akn.org.uk",
+    "description": "The label for category akn.org.uk in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.akn.org.uk.link.generated-index.description": {
+    "message": "Single page company site for AKN Systems Ltd, listing its live products and its contact address.",
+    "description": "The generated-index page description for category akn.org.uk in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Projects": {
+    "message": "Projects",
+    "description": "The label for category Projects in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.The Pathway Initiative": {
+    "message": "The Pathway Initiative",
+    "description": "The label for category The Pathway Initiative in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.The Pathway Initiative.link.generated-index.description": {
+    "message": "Free volunteer tutoring for students, applied for online and delivered by video call.",
+    "description": "The generated-index page description for category The Pathway Initiative in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Playground": {
+    "message": "Playground",
+    "description": "The label for category Playground in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Meta": {
+    "message": "Meta",
+    "description": "The label for category Meta in sidebar tutorialSidebar"
+  }
+}

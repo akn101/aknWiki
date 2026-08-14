@@ -1,0 +1,5 @@
+{
+  "label": "aknStartpage",
+  "position": 3,
+  "link": { "type": "generated-index", "description": "Browser start page with a command palette, personal widgets and a glanceable display mode." }
+}

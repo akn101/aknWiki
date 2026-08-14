@@ -1,0 +1,5 @@
+{
+  "label": "Slate Vault",
+  "position": 2,
+  "link": { "type": "generated-index", "description": "Document store holding every file Slate produces and every file an operator uploads." }
+}

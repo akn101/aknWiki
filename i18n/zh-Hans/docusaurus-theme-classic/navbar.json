@@ -1,0 +1,18 @@
+{
+  "title": {
+    "message": "aknWiki",
+    "description": "The title in the navbar"
+  },
+  "item.label.Docs": {
+    "message": "Docs",
+    "description": "Navbar item with label Docs"
+  },
+  "item.label.Status": {
+    "message": "Status",
+    "description": "Navbar item with label Status"
+  },
+  "item.label.akn.me.uk": {
+    "message": "akn.me.uk",
+    "description": "Navbar item with label akn.me.uk"
+  }
+}
