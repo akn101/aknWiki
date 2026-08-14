@@ -73,3 +73,7 @@ or joined from this site.
 - [The mobile app](mobile-app.md) covers what the app is described as offering and how to ask about access.
 - [Your information](privacy.md) covers what the site collects and what an email reveals.
 - [Diagnostics](diagnostics.md) lists observed conditions and resolutions.
+
+## Related products
+
+- [akn.org.uk](../../core/akn-org-uk/overview.md), links to this project

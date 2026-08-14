@@ -87,3 +87,7 @@ it.
 - [For volunteer tutors](tutors.md) covers who can apply and what is expected.
 - [Terms and privacy](policies.md) covers what you agree to and what is done with your information.
 - [Diagnostics](diagnostics.md) lists conditions and resolutions.
+
+## Related products
+
+- [akn.org.uk](../../core/akn-org-uk/overview.md), links to this project

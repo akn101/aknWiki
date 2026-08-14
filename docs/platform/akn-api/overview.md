@@ -81,3 +81,7 @@ calendar, status and location data behind akn's own sites.
 - [Sessions and sign-in](sessions.md) covers the session and credential endpoints.
 - [Errors](errors.md) covers the error shapes a caller must handle.
 - [Diagnostics](diagnostics.md) lists integration conditions and resolutions.
+
+## Related products
+
+- [aknID](../../platform/akn-id/overview.md), sign-in provider for sessions this API issues

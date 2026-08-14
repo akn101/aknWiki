@@ -60,3 +60,8 @@ No timeframe applies to review. No notification is issued in either direction.
 - [Using the board](using.md) covers reading and submitting.
 - [Moderation](moderation.md) covers the review queue.
 - [Diagnostics](diagnostics.md) lists observed conditions and resolutions.
+
+## Related products
+
+- [aknID scopes](../../platform/akn-id/scopes.md), the scope required to moderate
+- [aknStartpage](../../core/startpage/overview.md), surfaces published notes

@@ -42,5 +42,117 @@
   "sidebar.tutorialSidebar.category.Meta": {
     "message": "Meta",
     "description": "The label for category Meta in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.akn.me.uk": {
+    "message": "akn.me.uk",
+    "description": "The label for category akn.me.uk in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.akn.me.uk.link.generated-index.description": {
+    "message": "Personal site holding projects, experiments, photography, and letters, with parts of it gated by access code or akn ID.",
+    "description": "The generated-index page description for category akn.me.uk in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.aknStatus": {
+    "message": "aknStatus",
+    "description": "The label for category aknStatus in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.aknStatus.link.generated-index.description": {
+    "message": "Public availability dashboard for akn services, with a 30 day history and a record of past incidents.",
+    "description": "The generated-index page description for category aknStatus in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.aknStartpage": {
+    "message": "aknStartpage",
+    "description": "The label for category aknStartpage in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.aknStartpage.link.generated-index.description": {
+    "message": "Browser start page with a command palette, personal widgets and a glanceable display mode.",
+    "description": "The generated-index page description for category aknStartpage in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Platform": {
+    "message": "Platform",
+    "description": "The label for category Platform in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.aknAPI": {
+    "message": "aknAPI",
+    "description": "The label for category aknAPI in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.aknAPI.link.generated-index.description": {
+    "message": "HTTP API for akn ID sessions, federated sign-in, and the data served to akn's own sites.",
+    "description": "The generated-index page description for category aknAPI in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.aknID": {
+    "message": "aknID",
+    "description": "The label for category aknID in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.aknID.link.generated-index.description": {
+    "message": "Single sign-in for the akn sites, with per-site access granted by scope.",
+    "description": "The generated-index page description for category aknID in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Agora": {
+    "message": "Agora",
+    "description": "The label for category Agora in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Agora.link.generated-index.description": {
+    "message": "Public information site for the Agora charity and the mobile platform it is building for refugees.",
+    "description": "The generated-index page description for category Agora in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Applis": {
+    "message": "Applis",
+    "description": "The label for category Applis in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Applis.link.generated-index.description": {
+    "message": "Applicant and recruitment dashboard for Eton STEM staff, with bulk import and export.",
+    "description": "The generated-index page description for category Applis in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Gaodi": {
+    "message": "Gaodi",
+    "description": "The label for category Gaodi in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Slate": {
+    "message": "Slate",
+    "description": "The label for category Slate in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Slate.link.generated-index.description": {
+    "message": "用于开发亚马逊产品的内部工作区，涵盖从市场调研到listing文案的全过程。",
+    "description": "The generated-index page description for category Slate in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Slate Vault": {
+    "message": "Slate Vault",
+    "description": "The label for category Slate Vault in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Slate Vault.link.generated-index.description": {
+    "message": "文档库，保存Slate生成的每一个文件以及操作人员上传的每一个文件。",
+    "description": "The generated-index page description for category Slate Vault in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Waves": {
+    "message": "Waves",
+    "description": "The label for category Waves in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Waves.link.generated-index.description": {
+    "message": "Playground experiment that animates a dot grid in time with an uploaded audio file.",
+    "description": "The generated-index page description for category Waves in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.EC Timetable": {
+    "message": "EC Timetable",
+    "description": "The label for category EC Timetable in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.EC Timetable.link.generated-index.description": {
+    "message": "Playground experiment that turns a saved Eton College timetable into a weekly view and a calendar file.",
+    "description": "The generated-index page description for category EC Timetable in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Nalu": {
+    "message": "Nalu",
+    "description": "The label for category Nalu in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Nalu.link.generated-index.description": {
+    "message": "Playground experiment that predicts coral disease spread from environmental and biological inputs.",
+    "description": "The generated-index page description for category Nalu in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.aknWiki": {
+    "message": "aknWiki",
+    "description": "The label for category aknWiki in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.aknWiki.link.generated-index.description": {
+    "message": "The documentation site itself: what it covers, how to find pages, and how to read them.",
+    "description": "The generated-index page description for category aknWiki in sidebar tutorialSidebar"
   }
 }

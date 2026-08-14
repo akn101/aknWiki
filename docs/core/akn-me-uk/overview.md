@@ -74,3 +74,8 @@ Neither method creates an account on this site.
 - [Protected content](protected-content.md) covers requesting and using access.
 - [Letters](letters.md) covers the writing section.
 - [Diagnostics](diagnostics.md) lists observed conditions and resolutions.
+
+## Related products
+
+- [aknID](../../platform/akn-id/overview.md), gates access to restricted sections
+- [aknStartpage](../../core/startpage/overview.md), personal start page by the same maintainer

@@ -61,3 +61,7 @@ akn ID to sign in and returned to the panel afterwards.
 - [Incidents](incidents.md) covers what an incident record contains and how to read it.
 - [Operator tasks](operators.md) covers declaring and resolving incidents.
 - [Diagnostics](diagnostics.md) lists observed conditions and resolutions.
+
+## Related products
+
+- [aknID](../../platform/akn-id/overview.md), access control for the operator panel

@@ -84,3 +84,9 @@ Sessions last 30 days.
 - [Assistant](assistant.md) covers the AI matching feature.
 - [Privacy](privacy.md) covers what is stored and what is sent.
 - [Diagnostics](diagnostics.md) lists observed conditions and resolutions.
+
+## Related products
+
+- [aknID](../../platform/akn-id/overview.md), sign-in for personal widgets
+- [aknThoughts](../../core/thoughts/overview.md), source of the thoughts feed
+- [aknStatus](../../core/status/overview.md), availability of akn services

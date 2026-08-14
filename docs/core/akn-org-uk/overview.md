@@ -80,3 +80,9 @@ Each product runs on its own site.
 - [Motion and display](motion.md) covers the opening animation and motion
   preferences.
 - [Diagnostics](diagnostics.md) lists observed conditions and resolutions.
+
+## Related products
+
+- [Agora](../../projects/agora/overview.md), linked from the products section
+- [The Pathway Initiative](../../projects/tpi/overview.md), linked from the products section
+- [aknID](../../platform/akn-id/overview.md), linked from the products section

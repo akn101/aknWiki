@@ -59,3 +59,10 @@ Approval alone does not admit an account to a site. See [Scopes and access](scop
 - [Scopes and access](scopes.md) covers the access model and how access is requested and granted.
 - [Your account](account.md) covers profile details and sign-in methods.
 - [Diagnostics](diagnostics.md) lists observed conditions and resolutions.
+
+## Related products
+
+- [aknAPI](../../platform/akn-api/overview.md), verifies sessions issued here
+- [aknStartpage](../../core/startpage/overview.md), restricted by scope
+- [aknThoughts](../../core/thoughts/overview.md), restricted by scope
+- [aknStatus](../../core/status/overview.md), restricted by scope

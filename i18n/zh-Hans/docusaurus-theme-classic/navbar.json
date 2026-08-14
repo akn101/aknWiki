@@ -4,11 +4,11 @@
     "description": "The title in the navbar"
   },
   "item.label.Docs": {
-    "message": "Docs",
+    "message": "文档",
     "description": "Navbar item with label Docs"
   },
   "item.label.Status": {
-    "message": "Status",
+    "message": "服务状态",
     "description": "Navbar item with label Status"
   },
   "item.label.akn.me.uk": {
