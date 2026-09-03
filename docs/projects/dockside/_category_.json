@@ -1,0 +1,5 @@
+{
+  "label": "Dockside",
+  "position": 4,
+  "link": { "type": "generated-index", "description": "iPhone app for London's public cycle hire scheme. Shows every docking station with live availability, and releases a bike for holders of a cycle hire account." }
+}
